@@ -22,6 +22,7 @@
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/native-stack
 - npm i react-native-responsive-screen
+- npm i expo-linear-gradient
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npx expo install --fix
