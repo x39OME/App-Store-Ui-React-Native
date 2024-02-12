@@ -25,9 +25,7 @@
 - npm i expo-linear-gradient
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
-- npx expo install --fix
-- npx expo install
-- expo install --fix
+- npm i react-native-star-rating-widget
 ```
 // tailwind.config.js
 module.exports = {
