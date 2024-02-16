@@ -2,9 +2,10 @@
 
 ## Preview Final Project
 
-#### Home Screen
+#### Home\Store Screen
 
 <img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/homescreen02.jpg" style="width:350px;" alt=" Home" />
 
 
 ## What did we use in the project?
